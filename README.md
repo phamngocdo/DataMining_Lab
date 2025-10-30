@@ -1,1 +1,1 @@
-# DataMining_Lab
+# Labs from Data Mining and Analysing Course in VNU-UET
